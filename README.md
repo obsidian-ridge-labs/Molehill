@@ -1,4 +1,4 @@
-# Molehill — On-Device AI Focus App for ADHD
+# Molehill: On-Device AI Focus App for ADHD
 
 **Molehill** turns an overwhelming task into the one small step that comes next. On-device AI does the executive-function heavy lifting, so you can stop staring at your to-do list and just start. No streaks. No shame.
 

@@ -1,4 +1,4 @@
-# Molehill — Unreleased
+# Molehill: Unreleased
 
 **Status:** Coming soon to the App Store (iOS 26)
 
